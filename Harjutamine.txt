@@ -68,3 +68,9 @@ GitHub's mascot is Mona,[63] an anthropomorphized "octocat" with five octopus-li
 GitHub renamed Octopuss to Octocat,[66] and trademarked the character along with the new name.[64] Later, GitHub hired illustrator Cameron McEfee to adapt Octocat for different purposes on the website and promotional materials; McEfee and various GitHub users have since created hundreds of variations of the character, which are available on The Octodex.[67][68]
 
 Services
+
+Mina saan GitHubi kasutada oma koolitööde, projektide ja programmeerimisülesannete haldamiseks.
+GitHub Inc. asutati 2008. aastal Chris Wanstrathi, PJ Hyett, Tom Preston-Werneri ja Scott Chaconi poolt.
+Teenus muutus avalikkusele kättesaadavaks 2008. aastal.
+
+
